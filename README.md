@@ -47,7 +47,6 @@ Description + Examples
 
 ### Delta-method
 
-its just transform variance formula
 
 ### <mark style="background-color:yellow;">Linearization</mark>
 
