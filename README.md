@@ -7,7 +7,10 @@ icon: laptop-code
 ---
 
 # A/B-testing
-
+description: >-
+  Below is a structured pipeline for conducting an A/B test, from experiment
+  design to analysis and decision-making.  It also includes useful links and key
+  statistical formulas.
 ***
 
 ## Check list
