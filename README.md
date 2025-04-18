@@ -1,3 +1,5 @@
+For Russian documentation, see [README на русском](README.ru.md)
+
 # A/B-testing
 
   Below is a structured pipeline for conducting an A/B test, from experiment
